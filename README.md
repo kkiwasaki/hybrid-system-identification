@@ -37,7 +37,7 @@ The methods combine mode assignment via convex relaxations and system identifica
 ## Requirements
 - MATLAB **R2024a** or later  
 - [Spotless Toolbox](https://github.com/spot-toolbox/spotless)  
-- [MOSEK Optimizer](https://www.mosek.com/downloads/) (academic license)
+- [MOSEK Optimizer](https://www.mosek.com/downloads/) (academic license required)
 
 ---
 
