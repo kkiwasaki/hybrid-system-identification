@@ -3,7 +3,7 @@ MATLAB code for “Learning Hybrid Dynamics via Convex Optimizations” (arXiv:2
 
 This repository contains the MATLAB implementation accompanying the paper:
 
-> **Kaito Iwasaki**, Maani Ghaffari, and Anthony Bloch  
+> **Kaito Iwasaki**, Sangli Teng, Maani Ghaffari, and Anthony Bloch  
 > *Learning Hybrid Dynamics via Convex Optimizations* (arXiv:2509.24157)  
 > [https://arxiv.org/abs/2509.24157](https://arxiv.org/abs/2509.24157)
 
